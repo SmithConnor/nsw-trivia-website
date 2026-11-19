@@ -67,7 +67,91 @@
     "href": "b-statistics.html#section",
     "title": "B. Statistics",
     "section": "",
-    "text": "Questions coming soon.\n← Back to all rounds"
+    "text": "How this round works\nEach slide states a famous theorem, but one word has been replaced with something completely different.\nFor each question, write down:\n\nThe name of the theorem\nThe original word that was replaced\n\n\n[1 point for the theorem, 1 point for the original word]\n\n\nB. Statistics"
+  },
+  {
+    "objectID": "b-statistics.html#section-1",
+    "href": "b-statistics.html#section-1",
+    "title": "B. Statistics",
+    "section": "",
+    "text": "Example\n\nIn a right-angled triangle, the square of the lasagne equals the sum of the squares of the other two sides.\n\nANSWER: Pythagoras’ Theorem / lasagne → hypotenuse\n\nB. Statistics"
+  },
+  {
+    "objectID": "b-statistics.html#section-2",
+    "href": "b-statistics.html#section-2",
+    "title": "B. Statistics",
+    "section": "",
+    "text": "Question 1\n\nThe posterior is proportional to the vibes multiplied by the prior.\n\n\n[1 point for the theorem, 1 point for the original word]\n\n\nB. Statistics"
+  },
+  {
+    "objectID": "b-statistics.html#section-3",
+    "href": "b-statistics.html#section-3",
+    "title": "B. Statistics",
+    "section": "",
+    "text": "Question 2\n\nThe suitably standardised sum of a large number of independent, identically distributed random variables with finite variance is approximately sarcastically distributed.\n\n\n[1 point for the theorem, 1 point for the original word]\n\n\nB. Statistics"
+  },
+  {
+    "objectID": "b-statistics.html#section-4",
+    "href": "b-statistics.html#section-4",
+    "title": "B. Statistics",
+    "section": "",
+    "text": "Question 3\n\nIf the events B1, …, Bn gaslight the sample space, then the probability of A is the sum over i of P(A | Bi) P(Bi).\n\n\n[1 point for the theorem, 1 point for the original word]\n\n\nB. Statistics"
+  },
+  {
+    "objectID": "b-statistics.html#section-5",
+    "href": "b-statistics.html#section-5",
+    "title": "B. Statistics",
+    "section": "",
+    "text": "Question 4\n\nFor any distribution with finite variance, at most 1/k² of its values lie at least k standard kangaroos away from the mean.\n\n\n[1 point for the theorem, 1 point for the original word]\n\n\nB. Statistics"
+  },
+  {
+    "objectID": "b-statistics.html#section-6",
+    "href": "b-statistics.html#section-6",
+    "title": "B. Statistics",
+    "section": "",
+    "text": "Question 5\n\nFor any left-handed random variable X and any a &gt; 0, the probability that X is at least a is at most the expected value of X divided by a.\n\n\n[1 point for the theorem, 1 point for the original word]\n\n\nB. Statistics"
+  },
+  {
+    "objectID": "b-statistics.html#section-7",
+    "href": "b-statistics.html#section-7",
+    "title": "B. Statistics",
+    "section": "",
+    "text": "Question 6\n\nIn a linear regression model whose errors have mean zero, constant variance and are uncorrelated, the ordinary least squares estimator is the best dressed unbiased estimator.\n\n\n[1 point for the theorem, 1 point for the original word]\n\n\nB. Statistics"
+  },
+  {
+    "objectID": "b-statistics.html#section-8",
+    "href": "b-statistics.html#section-8",
+    "title": "B. Statistics",
+    "section": "",
+    "text": "Question 7\n\nFor any haunted function, the function of the expected value is less than or equal to the expected value of the function.\n\n\n[1 point for the theorem, 1 point for the original word]\n\n\nB. Statistics"
+  },
+  {
+    "objectID": "b-statistics.html#section-9",
+    "href": "b-statistics.html#section-9",
+    "title": "B. Statistics",
+    "section": "",
+    "text": "Question 8\n\nThe absolute value of the inner product of two vectors is at most the product of their grandmothers.\n\n\n[1 point for the theorem, 1 point for the original word]\n\n\nB. Statistics"
+  },
+  {
+    "objectID": "b-statistics.html#section-10",
+    "href": "b-statistics.html#section-10",
+    "title": "B. Statistics",
+    "section": "",
+    "text": "Question 9\n\nWhen testing a simple null hypothesis against a simple alternative, the likelihood ratio test is the most gluten-free test of its size.\n\n\n[1 point for the theorem, 1 point for the original word]\n\n\nB. Statistics"
+  },
+  {
+    "objectID": "b-statistics.html#section-11",
+    "href": "b-statistics.html#section-11",
+    "title": "B. Statistics",
+    "section": "",
+    "text": "Question 10\n\nConditioning an estimator on a spicy statistic produces a new estimator whose mean squared error is no larger than the original.\n\n\n[1 point for the theorem, 1 point for the original word]\n\n\nB. Statistics"
+  },
+  {
+    "objectID": "b-statistics.html#section-12",
+    "href": "b-statistics.html#section-12",
+    "title": "B. Statistics",
+    "section": "",
+    "text": "End of Round B\n← Back to all rounds"
   },
   {
     "objectID": "index.html",

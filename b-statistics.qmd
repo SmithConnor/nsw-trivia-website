@@ -10,8 +10,201 @@ format:
     controls: true
 ---
 
+## {.vertical}
+
+**How this round works**
+
+Each slide states a famous theorem, but **one word** has been replaced with something completely different.
+
+For each question, write down:
+
+1. The **name** of the theorem
+2. The **original** word that was replaced
+
+::: {.score}
+[1 point for the theorem, 1 point for the original word]
+:::
+
+::: {.footer}
+B. Statistics
+:::
+
+## {.vertical}
+
+**Example**
+
+::: {style="text-align: center;"}
+In a right-angled triangle, the square of the lasagne equals the sum of the squares of the other two sides.
+:::
+
+**ANSWER:** Pythagoras' Theorem / lasagne → hypotenuse
+
+::: {.footer}
+B. Statistics
+:::
+
+## {.vertical}
+
+**Question 1**
+
+::: {style="text-align: center;"}
+The posterior is proportional to the vibes multiplied by the prior.
+:::
+
+::: {.score}
+[1 point for the theorem, 1 point for the original word]
+:::
+
+::: {.footer}
+B. Statistics
+:::
+
+## {.vertical}
+
+**Question 2**
+
+::: {style="text-align: center;"}
+The suitably standardised sum of a large number of independent, identically distributed random variables with finite variance is approximately sarcastically distributed.
+:::
+
+::: {.score}
+[1 point for the theorem, 1 point for the original word]
+:::
+
+::: {.footer}
+B. Statistics
+:::
+
+## {.vertical}
+
+**Question 3**
+
+::: {style="text-align: center;"}
+If the events *B*~1~, …, *B*~*n*~ gaslight the sample space, then the probability of *A* is the sum over *i* of P(*A* | *B*~*i*~) P(*B*~*i*~).
+:::
+
+::: {.score}
+[1 point for the theorem, 1 point for the original word]
+:::
+
+::: {.footer}
+B. Statistics
+:::
+
+## {.vertical}
+
+**Question 4**
+
+::: {style="text-align: center;"}
+For any distribution with finite variance, at most 1/*k*² of its values lie at least *k* standard kangaroos away from the mean.
+:::
+
+::: {.score}
+[1 point for the theorem, 1 point for the original word]
+:::
+
+::: {.footer}
+B. Statistics
+:::
+
+## {.vertical}
+
+**Question 5**
+
+::: {style="text-align: center;"}
+For any left-handed random variable *X* and any *a* > 0, the probability that *X* is at least *a* is at most the expected value of *X* divided by *a*.
+:::
+
+::: {.score}
+[1 point for the theorem, 1 point for the original word]
+:::
+
+::: {.footer}
+B. Statistics
+:::
+
+## {.vertical}
+
+**Question 6**
+
+::: {style="text-align: center;"}
+In a linear regression model whose errors have mean zero, constant variance and are uncorrelated, the ordinary least squares estimator is the best dressed unbiased estimator.
+:::
+
+::: {.score}
+[1 point for the theorem, 1 point for the original word]
+:::
+
+::: {.footer}
+B. Statistics
+:::
+
+## {.vertical}
+
+**Question 7**
+
+::: {style="text-align: center;"}
+For any haunted function, the function of the expected value is less than or equal to the expected value of the function.
+:::
+
+::: {.score}
+[1 point for the theorem, 1 point for the original word]
+:::
+
+::: {.footer}
+B. Statistics
+:::
+
+## {.vertical}
+
+**Question 8**
+
+::: {style="text-align: center;"}
+The absolute value of the inner product of two vectors is at most the product of their grandmothers.
+:::
+
+::: {.score}
+[1 point for the theorem, 1 point for the original word]
+:::
+
+::: {.footer}
+B. Statistics
+:::
+
+## {.vertical}
+
+**Question 9**
+
+::: {style="text-align: center;"}
+When testing a simple null hypothesis against a simple alternative, the likelihood ratio test is the most gluten-free test of its size.
+:::
+
+::: {.score}
+[1 point for the theorem, 1 point for the original word]
+:::
+
+::: {.footer}
+B. Statistics
+:::
+
+## {.vertical}
+
+**Question 10**
+
+::: {style="text-align: center;"}
+Conditioning an estimator on a spicy statistic produces a new estimator whose mean squared error is no larger than the original.
+:::
+
+::: {.score}
+[1 point for the theorem, 1 point for the original word]
+:::
+
+::: {.footer}
+B. Statistics
+:::
+
 ## {.center style="text-align: center;"}
 
-Questions coming soon.
+End of Round B
 
 [← Back to all rounds](index.html)
