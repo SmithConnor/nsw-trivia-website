@@ -1,0 +1,13 @@
+project:
+  type: website
+  output-dir: _site
+  # Explicit render list so the master deck (with answers) is never published
+  render:
+    - index.qmd
+    - a-rhyme-time.qmd
+    - b-statistics.qmd
+    - c-general-knowledge.qmd
+    - d-miscellaneous.qmd
+
+website:
+  title: "SSA NSW Branch 2026 Annual Trivia"

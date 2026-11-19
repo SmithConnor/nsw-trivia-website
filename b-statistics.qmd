@@ -1,0 +1,17 @@
+---
+title: "B. Statistics"
+subtitle: "SSA NSW Branch 2026 Annual Trivia"
+format:
+  revealjs:
+    auto-stretch: false
+    theme: [dracula, themer.scss]
+    slide-number: true
+    hash: true
+    controls: true
+---
+
+## {.center style="text-align: center;"}
+
+Questions coming soon.
+
+[← Back to all rounds](index.html)

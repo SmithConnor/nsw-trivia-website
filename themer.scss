@@ -1,0 +1,69 @@
+/*-- scss:defaults --*/
+
+/*-- scss:rules --*/
+
+.reveal .footer {
+  color: $purple;
+}
+
+.reveal .score {  
+  position: absolute;
+  top: 0;
+  right: 0;
+  font-size: 75%;
+  color: $purple;
+}
+
+.reveal .vertical {
+  display: flex !important;
+  align-items: left !important;
+  justify-content: center !important;
+  flex-direction: column;
+}
+
+// .reveal .slide .answers {
+//   margin-left: 1em;
+// }
+
+.reveal .slide .answers ul li {
+  margin-top: unset;
+  margin-bottom: unset;
+}
+
+.reveal .slide .answers ol {
+  display: flex;
+  flex-wrap: wrap; 
+  list-style-type: upper-alpha;
+}
+
+.reveal .slide .answers ol li {
+  width: 50%;
+  margin-top: unset;
+  margin-bottom: unset;
+}
+
+.reveal .slide .answers ul li {
+  margin-top: unset;
+  margin-bottom: unset;
+}
+
+// .reveal .slide .bonus {
+//   margin-left: 1em;
+// }
+
+.bonus-tag {
+  color: $cyan;
+}
+
+.flag {
+  display: block;
+  width: 400px;
+  height: 200px;
+  object-fit: contain;
+}
+
+.magazine {
+  display: block;
+  height: 240px;
+  object-fit: contain;
+}

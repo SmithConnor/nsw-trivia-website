@@ -1,0 +1,35 @@
+---
+title: "SSA NSW Branch 2026 Annual Trivia"
+subtitle: "Hosted by Connor Smith and David Chan"
+format:
+  html:
+    theme: darkly
+    toc: false
+---
+
+Welcome! There's no screen tonight, so the questions are on your phone instead.
+Please only open a round when the quizmaster announces it.
+
+**Tips:** Swipe or tap the arrows to move between questions. Turning your
+phone to landscape makes the slides bigger. Write your answers on your
+team's answer sheet.
+
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-6}
+[A. Rhyme Time](a-rhyme-time.html){.btn .btn-primary .btn-lg .w-100 .my-2}
+:::
+
+::: {.g-col-12 .g-col-md-6}
+[B. Statistics](b-statistics.html){.btn .btn-primary .btn-lg .w-100 .my-2}
+:::
+
+::: {.g-col-12 .g-col-md-6}
+[C. General Knowledge](c-general-knowledge.html){.btn .btn-primary .btn-lg .w-100 .my-2}
+:::
+
+::: {.g-col-12 .g-col-md-6}
+[D. Miscellaneous](d-miscellaneous.html){.btn .btn-primary .btn-lg .w-100 .my-2}
+:::
+
+:::
